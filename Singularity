@@ -7,5 +7,5 @@ From: ubuntu:18.04
 apt-get update
 apt-get -y upgrade
 
-apt-get -y install curl-devel
+apt-get -y install curl
 apt-get -y install libcurl3-gnutls
