@@ -15,7 +15,7 @@ apt-get install -y screen terminator tmux vim wget
 apt-get install -y aptitude build-essential cmake g++ gfortran git \
     pkg-config python-pip python-dev software-properties-common
 
-apt-get -y install curl
+apt-get -y install curl libcurl-dev
 apt-get -y install libcurl3-gnutls
 apt-get -y install liboauth0 liboath0
 
