@@ -17,5 +17,5 @@ apt-get install -y aptitude build-essential cmake g++ gfortran git \
 
 apt-get -y install curl
 apt-get -y install libcurl3-gnutls
-apt-get -y install liboauth0 liboath0-dev
+apt-get -y install liboauth0 liboath0
 
