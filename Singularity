@@ -21,3 +21,4 @@ apt-get -y install liboauth0 liboauth-dev
 apt-get -y install libjsoncpp-dev
 
 # A test
+apt-get -y install vim-gnome
